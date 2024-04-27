@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>523.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\V\523.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>38</ymin>
+			<xmax>188</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

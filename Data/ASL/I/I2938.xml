@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I2938.jpg</filename>
+	<path>D:\ASL\I\I2938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>3</ymin>
+			<xmax>163</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

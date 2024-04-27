@@ -1,0 +1,26 @@
+<annotation>
+	<folder>T</folder>
+	<filename>244.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\T\244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>39</ymin>
+			<xmax>199</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

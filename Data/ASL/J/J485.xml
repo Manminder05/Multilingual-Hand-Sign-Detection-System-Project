@@ -1,0 +1,26 @@
+<annotation>
+	<folder>J</folder>
+	<filename>J485.jpg</filename>
+	<path>D:\ASL\J\J485.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>94</ymin>
+			<xmax>154</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

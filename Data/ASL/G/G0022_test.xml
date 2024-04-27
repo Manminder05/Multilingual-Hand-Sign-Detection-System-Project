@@ -1,0 +1,26 @@
+<annotation>
+	<folder>G</folder>
+	<filename>G0022_test.jpg</filename>
+	<path>D:\ASL\G\G0022_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>G</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>23</ymin>
+			<xmax>187</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

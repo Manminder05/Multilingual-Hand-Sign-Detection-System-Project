@@ -1,0 +1,26 @@
+<annotation>
+	<folder>U</folder>
+	<filename>75.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\U\75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>39</ymin>
+			<xmax>237</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

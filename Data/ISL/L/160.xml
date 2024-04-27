@@ -1,0 +1,26 @@
+<annotation>
+	<folder>L</folder>
+	<filename>160.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\L\160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>41</ymin>
+			<xmax>209</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

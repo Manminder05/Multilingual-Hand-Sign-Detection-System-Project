@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M</folder>
+	<filename>M0019_test.jpg</filename>
+	<path>D:\ASL\M\M0019_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>43</ymin>
+			<xmax>125</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

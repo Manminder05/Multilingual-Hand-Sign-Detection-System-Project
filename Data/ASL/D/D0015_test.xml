@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D</folder>
+	<filename>D0015_test.jpg</filename>
+	<path>D:\ASL\D\D0015_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>45</ymin>
+			<xmax>151</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

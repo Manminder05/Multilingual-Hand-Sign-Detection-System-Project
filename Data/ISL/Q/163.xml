@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Q</folder>
+	<filename>163.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\Q\163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>23</ymin>
+			<xmax>229</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

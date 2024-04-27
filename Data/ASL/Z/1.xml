@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Z</folder>
+	<filename>1.jpg</filename>
+	<path>D:\ASL\Z\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>72</ymin>
+			<xmax>178</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

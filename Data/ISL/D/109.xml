@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D</folder>
+	<filename>109.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\D\109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>27</ymin>
+			<xmax>235</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

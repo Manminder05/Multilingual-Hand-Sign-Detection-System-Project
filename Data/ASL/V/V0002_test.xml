@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>V0002_test.jpg</filename>
+	<path>D:\ASL\V\V0002_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>32</ymin>
+			<xmax>169</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

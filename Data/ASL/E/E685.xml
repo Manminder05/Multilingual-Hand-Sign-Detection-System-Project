@@ -1,0 +1,26 @@
+<annotation>
+	<folder>E</folder>
+	<filename>E685.jpg</filename>
+	<path>D:\ASL\E\E685.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>22</ymin>
+			<xmax>141</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

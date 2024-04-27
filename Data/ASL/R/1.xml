@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>1.jpg</filename>
+	<path>D:\ASL\R\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>24</ymin>
+			<xmax>163</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>X</folder>
+	<filename>X1211.jpg</filename>
+	<path>D:\ASL\X\X1211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>X</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>43</ymin>
+			<xmax>129</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

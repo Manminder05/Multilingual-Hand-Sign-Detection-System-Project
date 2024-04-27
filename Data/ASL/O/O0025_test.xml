@@ -1,0 +1,26 @@
+<annotation>
+	<folder>O</folder>
+	<filename>O0025_test.jpg</filename>
+	<path>D:\ASL\O\O0025_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>84</ymin>
+			<xmax>168</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

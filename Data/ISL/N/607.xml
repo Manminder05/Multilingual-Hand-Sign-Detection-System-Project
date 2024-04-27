@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>607.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\N\607.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>39</ymin>
+			<xmax>226</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>317.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\S\317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>53</ymin>
+			<xmax>168</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

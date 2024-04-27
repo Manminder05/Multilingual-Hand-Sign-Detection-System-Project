@@ -1,0 +1,26 @@
+<annotation>
+	<folder>W</folder>
+	<filename>W0019_test.jpg</filename>
+	<path>D:\ASL\W\W0019_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>68</ymin>
+			<xmax>165</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

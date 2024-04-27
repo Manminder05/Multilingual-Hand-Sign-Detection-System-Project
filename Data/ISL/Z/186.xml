@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Z</folder>
+	<filename>186.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\Z\186.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>14</ymin>
+			<xmax>245</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

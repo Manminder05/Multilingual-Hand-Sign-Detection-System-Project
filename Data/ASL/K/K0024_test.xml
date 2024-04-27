@@ -1,0 +1,26 @@
+<annotation>
+	<folder>K</folder>
+	<filename>K0024_test.jpg</filename>
+	<path>D:\ASL\K\K0024_test.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>3</ymin>
+			<xmax>133</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

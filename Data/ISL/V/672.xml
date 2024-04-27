@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>672.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\V\672.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>33</ymin>
+			<xmax>182</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

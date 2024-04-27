@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>1.jpg</filename>
+	<path>D:\ASL\N\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>62</ymin>
+			<xmax>181</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

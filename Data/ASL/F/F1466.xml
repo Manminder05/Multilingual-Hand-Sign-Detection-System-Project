@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F</folder>
+	<filename>F1466.jpg</filename>
+	<path>D:\ASL\F\F1466.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>14</ymin>
+			<xmax>173</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

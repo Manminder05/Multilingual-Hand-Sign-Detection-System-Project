@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Y</folder>
+	<filename>786.jpg</filename>
+	<path>D:\Indiansignlanguagedataset\Y\786.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>81</ymin>
+			<xmax>230</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
