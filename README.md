@@ -1,0 +1,1 @@
+This project aims to develop a multilingual sign language recognition system using deep learning techniques. The system is capable of recognizing and interpreting sign language gestures from both American Sign Language (ASL) and Indian Sign Language (ISL). The project includes the development of a user interface for real-time sign recognition.
